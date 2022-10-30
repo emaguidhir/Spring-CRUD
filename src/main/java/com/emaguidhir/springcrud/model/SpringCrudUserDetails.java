@@ -1,7 +1,9 @@
 package com.emaguidhir.springcrud.model;
 
 import lombok.*;
-
+/**
+ * Model for SpringCrudUserDetails
+ */
 @Getter
 @Setter
 @NonNull

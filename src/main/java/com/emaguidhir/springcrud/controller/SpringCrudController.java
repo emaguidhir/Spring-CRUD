@@ -38,7 +38,7 @@ public class SpringCrudController {
      * @return ResponseEntity<String>
      *     Returning the responseEntity for processing
      */
-    @RequestMapping("/modify")
+    @RequestMapping("/api/modify")
     @CrossOrigin
     @ResponseBody
     public ResponseEntity<String> modifyContactDetails(@RequestBody SpringCrudContactDetails[] contactDetails, @RequestParam String modification,

@@ -8,7 +8,7 @@ import org.springframework.stereotype.Service;
 
 
 /**
- * Implementation One of the SpringCrudService
+ * Service Implementation One of the SpringCrudService
  */
 @Service
 @Qualifier("SpringCrudServiceImplementationOne")

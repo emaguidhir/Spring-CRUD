@@ -2,6 +2,9 @@ package com.emaguidhir.springcrud.model;
 
 import lombok.*;
 
+/**
+ * Model for SpringCrudContactDetails
+ */
 @Getter
 @Setter
 @NonNull
@@ -13,5 +16,4 @@ public class SpringCrudContactDetails {
     private String firstName;
     private String secondName;
     private int age;
-
 }

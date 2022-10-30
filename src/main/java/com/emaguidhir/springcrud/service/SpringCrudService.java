@@ -5,7 +5,7 @@ import org.springframework.http.HttpMethod;
 import org.springframework.http.ResponseEntity;
 
 /**
- * Interface for the SpringCrudService
+ * Service for the SpringCrudService
  */
 public interface SpringCrudService {
 

@@ -7,7 +7,7 @@ import org.springframework.http.ResponseEntity;
 
 
 /**
- * Implementation Two of the SpringCrudService - Placeholder
+ * Service Implementation Two of the SpringCrudService - Placeholder
  */
 @Qualifier("SpringCrudServiceImplementationTwo")
 public class SpringCrudServiceImplTwo implements SpringCrudService {
