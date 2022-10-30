@@ -1,2 +1,2 @@
 # Spring-CRUD
-Basic Spring CRUD Application
+Basic Spring Boot CRUD Application
